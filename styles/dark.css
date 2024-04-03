@@ -9,7 +9,6 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
-  --header-cover-image: url(/images/cover-image-dark.png);
   --menu-color: #ff0070;
   --button-hover:#ff007066;
   --button-focus:#353430;
@@ -24,4 +23,8 @@
   --focus__anker: 1px solid #f1b2ce;
   --decorated-zone-color: #ff0070;
   --decorated-zone-rec: #ff0070;
+}
+
+.page.theme_dark {
+  background-image: url(../images/cover-image-dark.png)
 }
