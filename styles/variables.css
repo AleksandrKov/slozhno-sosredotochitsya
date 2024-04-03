@@ -2,8 +2,7 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
-:root {
-  --header-cover-image: url(/images/cover-image-dark.png);
+:root.theme-dark {
   --menu-color: #ff0070;
   --button-hover:#32312D66;
   --button-focus:#353430;
