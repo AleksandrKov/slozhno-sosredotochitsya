@@ -3,6 +3,7 @@
   и их переопределение под различные устройства
 */
 :root.theme-dark {
+  --bg-images: url(../images/cover-image-dark.png);
   --menu-color: #ff0070;
   --button-hover:#32312D66;
   --button-focus:#353430;
@@ -17,5 +18,4 @@
   --focus__anker: 1px solid #f1b2ce;
   --decorated-zone-color: #ff0070;
   --decorated-zone-rec: #ff0070;
-  
 }
