@@ -211,7 +211,7 @@ main {
 @media (width >= 768px) {
   .images__content__list {
     display: grid;
-    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+    grid-template: repeat(3, auto) / repeat(3, auto);
     gap: 20px;
     grid-template-areas:
       "image1 image1 image2"
