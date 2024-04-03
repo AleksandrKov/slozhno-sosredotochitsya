@@ -23,8 +23,5 @@
   --focus__anker: 1px solid #f1b2ce;
   --decorated-zone-color: #ff0070;
   --decorated-zone-rec: #ff0070;
-}
-
-.page.theme_dark {
-  background-image: url(../images/cover-image-dark.png)
+  background-image: url(../images/cover-image-dark.png);
 }
