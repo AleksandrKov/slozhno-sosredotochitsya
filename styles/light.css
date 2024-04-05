@@ -26,9 +26,10 @@
   --decorated-zone-rec: transparent;
 }
 
+
 @media (prefers-color-scheme: light) {
   :root {
-    --bg-images: url(../images/cover-image-dark.png);
+    --bg-images: url(../images/cover-image-light.png);
     --button-hover: #32312d66;
     --button-focus: #ff0070;
     --menu-color: #353430;
@@ -43,5 +44,7 @@
     --focus__anker: 1px solid #353430;
     --decorated-zone-color: #353430;
     --decorated-zone-rec: transparent;
+    --font-family: "IBM Plex mono";
+    --font-size: 18px;
   }
 }
