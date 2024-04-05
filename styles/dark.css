@@ -11,8 +11,8 @@
   */
   --bg-images: url(../images/cover-image-dark.png);
   --menu-color: #ff0070;
-  --button-hover:#ff007066;
-  --button-focus:#353430;
+  --button-hover: #ff007066;
+  --button-focus: #353430;
   --h1__title-color: #db00ff;
   --fonts-shadow: #ff0070;
   --bg-color: #000028;
@@ -24,5 +24,6 @@
   --focus__anker: 1px solid #f1b2ce;
   --decorated-zone-color: #ff0070;
   --decorated-zone-rec: #ff0070;
-  background-image: url(../images/cover-image-dark.png);
+  --font-family: "IBM Plex mono";
+  --font-size: 18px;
 }
